@@ -1,11 +1,3 @@
-/*
- * @Descripttion:
- * @version: xv1.0
- * @Author: changwei5
- * @Date: 2021-04-24 20:16:45
- * @LastEditors: changwei5
- * @LastEditTime: 2021-04-24 20:30:29
- */
 package main
 
 import (
